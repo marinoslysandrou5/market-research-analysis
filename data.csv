@@ -1,0 +1,12 @@
+Age,Gender,Satisfaction,Product_Usage,Recommend
+23,Male,4,High,Yes
+35,Female,5,High,Yes
+29,Male,3,Medium,No
+41,Female,4,High,Yes
+22,Female,2,Low,No
+33,Male,4,Medium,Yes
+27,Female,5,High,Yes
+38,Male,3,Medium,No
+30,Female,4,High,Yes
+45,Male,2,Low,No
+``
